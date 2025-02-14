@@ -22,7 +22,7 @@ public class Ativi27 {
     }
 }
 
-/*Portugo
+/*Portugol
 
 Compra 1	Compra 2	Compra 3	Compra 4	Total Gastos	Pontos Acumulados
 30.00	         20.00	         15.00	         35.00	           100.00	     20.00
